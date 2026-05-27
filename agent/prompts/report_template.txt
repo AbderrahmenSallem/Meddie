@@ -1,0 +1,152 @@
+# Research Report: {SUBSTANCE_NAME}
+
+**Generated:** {DATE}
+**Query:** {ORIGINAL_QUERY}
+**Canonical Name:** {CANONICAL_NAME} | **RxCUI:** {RXCUI}
+
+---
+
+## ⚠️ Warnings & Safety Alerts
+
+> List black box warnings, serious adverse events, and critical contraindications here.
+> If none exist, write "No black box warnings found in FDA labeling."
+
+---
+
+## 1. Substance Profile
+
+| Field | Value |
+|---|---|
+| Class | (e.g. anabolic androgen, peptide, SSRI, aromatase inhibitor) |
+| Route(s) | (oral / injectable / transdermal / subcutaneous) |
+| Half-life | |
+| FDA Approval Status | (approved / off-label / not approved / research only) |
+| Schedule | (controlled schedule / Rx only / OTC / unscheduled) |
+
+---
+
+## 2. Mechanism of Action
+
+Brief description of how the substance works at the receptor or biochemical level.
+
+---
+
+## 3. Clinical Evidence Summary
+
+Summarize the quality and quantity of the clinical evidence base.
+
+- **Meta-analyses / Systematic Reviews:** N found
+- **Randomized Controlled Trials:** N found
+- **Observational / Case Series:** N found
+- **Evidence verdict:** (Strong / Moderate / Weak / Preclinical only / None)
+
+---
+
+## 4. Dosing Protocols
+
+### 4.1 Clinical / Approved Dosing
+
+Source: FDA label / DailyMed [T2]
+
+| Indication | Dose | Frequency | Route |
+|---|---|---|---|
+| | | | |
+
+### 4.2 Community-Reported Dosing
+
+Source: Reddit / forums [T4–T5]
+
+| Protocol | Dose | Frequency | Notes |
+|---|---|---|---|
+| | | | |
+
+> Note any gap between clinical and community dosing here.
+
+---
+
+## 5. Side Effects & Adverse Events
+
+### 5.1 FDA-Labeled Adverse Reactions [T2]
+
+| System | Effect | Frequency |
+|---|---|---|
+| | | |
+
+### 5.2 FAERS Patient Reports [T2–T3]
+
+Top adverse events from real patient reports (FAERS database):
+
+| Event | Report Count |
+|---|---|
+| | |
+
+### 5.3 Community-Reported Side Effects [T4–T5]
+
+Side effects mentioned in Reddit/forum discussions not prominently in clinical literature:
+
+---
+
+## 6. Drug Interactions
+
+| Interacting Drug | Mechanism | Severity | Source |
+|---|---|---|---|
+| | | | |
+
+> If interaction data was unavailable (NLM API retired Jan 2024), note it here.
+
+---
+
+## 7. Clinical Trials
+
+| NCT ID | Phase | Status | Condition | Enrollment | Primary Outcome |
+|---|---|---|---|---|---|
+| | | | | | |
+
+---
+
+## 8. Regulatory & Legal Status
+
+- **FDA:**
+- **DEA Schedule:**
+- **Country-specific notes:**
+- **Recalls / Enforcement Actions:**
+
+---
+
+## 9. Community Experience Summary
+
+Synthesize the Reddit/forum data: dosing norms, reported benefits, reported harms, harm reduction practices, notable threads.
+
+---
+
+## 10. Conflicts & Discrepancies
+
+| Topic | Clinical Position | Community Position | Assessment |
+|---|---|---|---|
+| | | | |
+
+---
+
+## 11. Evidence Quality Assessment
+
+| Source | Finding Count | Highest Tier | Notes |
+|---|---|---|---|
+| PubMed | | | |
+| FDA/DailyMed | | | |
+| ClinicalTrials | | | |
+| Reddit | | | |
+| Web scrapes | | | |
+
+**Overall evidence quality:** (High / Moderate / Low / Preclinical)
+
+---
+
+## 12. Sources & Citations
+
+List all cited papers (PMID/DOI), FDA documents, DailyMed setIDs, and Reddit thread IDs.
+
+---
+
+## Disclaimer
+
+This report is a synthesis of publicly available research and community information. It is not medical advice and should not be used to make clinical decisions. Consult a qualified healthcare provider before starting, stopping, or adjusting any medication or supplement.
